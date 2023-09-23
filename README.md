@@ -10,6 +10,8 @@ Here are some ideas to get you started:
 - 💬 Ask me about any programming language questions ...
 - ⚡ Fun fact: I love coding and watching football ...
 - My tech stack below 👇
+
+
 ![css](https://github.com/WaleGigs/WaleGigs/assets/87782382/d0578335-ca97-44ef-a2ab-91a03e54cb6c)
 ![html](https://github.com/WaleGigs/WaleGigs/assets/87782382/400edef8-cf56-4236-9374-3153a440c010)
 ![javascript](https://github.com/WaleGigs/WaleGigs/assets/87782382/698702ff-276d-48c5-8a12-acab2cc0e1c5)
